@@ -1,0 +1,938 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 339,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OilGMQAACAAJ",
+      "etag": "m3+VGKuc/TU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OilGMQAACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Sizzle Press",
+        "publishedDate": "2017-10-03",
+        "description": "Introduce your children to Jane Austen's Pride and Prejudice with beautiful illustrations and abridged text. Seek and find characters from the popular, romantic book Pride and Prejudice on each page and follow them throughout the story. Each page contains beautifully illustrated characters to find and details to spot, accompanied by abridged text. Search for the Bennet family at their home in Longbourne, Jane and Bingley falling in love at the Netherfield Ball, Lizzie and Darcy strolling around Pemberley, and much more. This seek-and-find book is the perfect way to introduce younger children to the world of Jane Austen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1499806256"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781499806250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OilGMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OilGMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=OilGMQAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=OilGMQAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=OilGMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OilGMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduce your children to Jane Austen&#39;s Pride and Prejudice with beautiful illustrations and abridged text. Seek and find characters from the popular, romantic book Pride and Prejudice on each page and follow them throughout the story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2GkrvgAACAAJ",
+      "etag": "bkemh4BAgKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2GkrvgAACAAJ",
+      "volumeInfo": {
+        "title": "Search and Find: Pride & Prejudice",
+        "subtitle": "A Jane Austen Search and Find Book",
+        "authors": [
+          "Sarah Powell",
+          "Jane Austen",
+          "Big Picture Press Staff"
+        ],
+        "publisher": "Studio Press",
+        "publishedDate": "2017-06",
+        "description": "Jane Austen's Pride and Prejudice is retold in this illustrated search and find book, perfect for introducing children to classic fiction and creating a keepsake title to treasure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1783708271"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783708277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2GkrvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2GkrvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=2GkrvgAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=2GkrvgAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Search_and_Find_Pride_Prejudice.html?hl=&id=2GkrvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2GkrvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The popular, classic story is retold in beautifully illustrated search and find scenes. Search and discover the characters on the busy pages and follow them through the story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5GbdTc9OJ78C",
+      "etag": "V5wRc7xS3AI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5GbdTc9OJ78C",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1992",
+        "description": "Elizabeth Bennet's early determination to dislike Mr. Darcy is a prejudice only matched by his arrogant pride.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853260002"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853260001"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5GbdTc9OJ78C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5GbdTc9OJ78C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=5GbdTc9OJ78C&printsec=frontcover&dq=search+intitle:pride+and+prejudice&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=5GbdTc9OJ78C&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=5GbdTc9OJ78C"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Pride_and_Prejudice-sample-epub.acsm?id=5GbdTc9OJ78C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5GbdTc9OJ78C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From its famous opening sentence the story of the Bennet family and of the novel&#39;s two protagonists, Elizabeth and Darcy, told with a wit that its author feared might prove &#39;rather too light and bright, and sparkling&#39;, delights its most ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1gVAAAAYAAJ",
+      "etag": "XpRs3b6klQQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1gVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1918",
+        "description": "Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets’ home in the English countryside, Elizabeth meets the wealthy, proud Fitzwilliam Darcy. Elizabeth initially finds Darcy haughty and intolerable, but circumstances continue to unite the pair. Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044086796588"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Courtship"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 373,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.9.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=s1gVAAAAYAAJ&printsec=frontcover&dq=search+intitle:pride+and+prejudice&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&rdid=book-s1gVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.ca/books/download/Pride_and_Prejudice.epub?id=s1gVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.ca/books/download/Pride_and_Prejudice.pdf?id=s1gVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dQw5JDWdbVgk2VRHyDjVMT4oIaA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1gVAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "16BCjwEACAAJ",
+      "etag": "AjsaVW5y4SI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/16BCjwEACAAJ",
+      "volumeInfo": {
+        "title": "Classic Novel Word Search - Jane Austen's Pride and Prejudice",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1910302325"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781910302323"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=16BCjwEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=16BCjwEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Classic_Novel_Word_Search_Jane_Austen_s.html?hl=&id=16BCjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=16BCjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X1ivzQEACAAJ",
+      "etag": "gCTLmgLxqN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X1ivzQEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice Word Search and Color",
+        "subtitle": "Jane Austen Activity Puzzle Book for Adults",
+        "authors": [
+          "K. Carpenter"
+        ],
+        "publishedDate": "2020-07-20",
+        "description": "It is a truth universally acknowledged, that a devoted Austenite in possession of a good pencil, must be in want of a great word search to color. Gather up your coloring pencils and prepare to unwind and relax while searching out favorite words from every chapter of the beloved novel, Pride and Prejudice. Inside the Pride and Prejudice Word Search and Color you will find: ★ 60+ Word Search puzzles to color-in ★ Multiple charming floral doodles to color-in ✓ Large Print Format on Crisp White Paper ✓ Puzzles are printed on one side only to prevent show-through. Whether a gift for yourself or that special person in your life, the Pride and Prejudice Word Search and Color is a delightful activity book combining word searches with coloring-in which will provide hours of charming enterprise. Buy one today and play tomorrow!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798667738589"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X1ivzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X1ivzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=X1ivzQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=X1ivzQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_Word_Search_and_Colo.html?hl=&id=X1ivzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X1ivzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gather up your coloring pencils and prepare to unwind and relax while searching out favorite words from every chapter of the beloved novel, Pride and Prejudice."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zauszQEACAAJ",
+      "etag": "Yy6irImNb4I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zauszQEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice Word Search and Colour",
+        "subtitle": "Jane Austen Activity Puzzle Book for Adults",
+        "authors": [
+          "K. Carpenter"
+        ],
+        "publishedDate": "2020-06-23",
+        "description": "It is a truth universally acknowledged, that a devoted Austenite in possession of a good pencil, must be in want of a great word search to colour. Gather up your colouring pencils and prepare to unwind and relax while searching out favourite words from every chapter of the beloved novel, Pride and Prejudice. Inside the Pride and Prejudice Word Search and Colour you will find: ★ 60+ Word Search puzzles to colour-in ★ Multiple charming floral doodles to colour-in ✓ Large Print Format on Crisp White Paper ✓ Puzzles are printed on one side only to prevent show-through. Whether a gift for yourself or that special person in your life, the Pride and Prejudice Word Search and Colour is a delightful activity book combining word searches with colouring-in which will provide hours of charming enterprise. Buy one today and play tomorrow!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798655500372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zauszQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zauszQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=zauszQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=zauszQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_Word_Search_and_Colo.html?hl=&id=zauszQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zauszQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gather up your colouring pencils and prepare to unwind and relax while searching out favourite words from every chapter of the beloved novel, Pride and Prejudice."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s09ODwAAQBAJ",
+      "etag": "qQmOhR7AaXc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s09ODwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice (Illustrated)",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2017-12-06",
+        "description": "Pride and Prejudice is a novel by Jane Austen, first published in 1813. The story follows the main character Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England. Elizabeth is the second of five daughters of a country gentleman living near the fictional town of Meryton in Hertfordshire, near London. Though the story is set at the turn of the 19th century, it retains a fascination for modern readers, continuing near the top of lists of 'most loved books' such as The Big Read. It has become one of the most popular novels in English literature and receives considerable attention from literary scholars. Modern interest in the book has resulted in a number of dramatic adaptations and an abundance of novels and stories imitating Austen's memorable characters or themes. To date, the book has sold some 20 million copies worldwide. As Anna Quindlen wrote, \"Pride and Prejudice is also about that thing that all great novels consider, the search for self. And it is the first great novel to teach us that that search is as surely undertaken in the drawing room making small talk as in the pursuit of a great white whale or the public punishment of adultery.\" Jane Austen (1775 – 1817) was an English novelist whose works of romantic fiction, set among the landed gentry, earned her a place as one of the most widely read writers in English literature. Her realism and biting social commentary have gained her historical importance among scholars and critics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788027237111"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8027237114"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s09ODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s09ODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=s09ODwAAQBAJ&printsec=frontcover&dq=search+intitle:pride+and+prejudice&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s09ODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s09ODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.7,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 0.7,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s09ODwAAQBAJ&rdid=book-s09ODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 700000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 700000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Pride_and_Prejudice_Illustrated-sample-epub.acsm?id=s09ODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Pride_and_Prejudice_Illustrated-sample-pdf.acsm?id=s09ODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s09ODwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Modern interest in the book has resulted in a number of dramatic adaptations and an abundance of novels and stories imitating Austen&#39;s memorable characters or themes. To date, the book has sold some 20 million copies worldwide."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7_3HsgEACAAJ",
+      "etag": "Tcj7Ygy7MKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7_3HsgEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice: a Word Search",
+        "authors": [
+          "Rachel John"
+        ],
+        "publishedDate": "2015-06-03",
+        "description": "It is a truth universally acknowledged, that a Jane Austen fan in possession of a good pen, must be in want of a Pride and Prejudice word search. Look no further!With 81 puzzles in all, this book is filled with delightful word searches for the most devoted of Jane Austen fans. There is a puzzle devoted to each chapter of Pride and Prejudice and to each of the principal characters, from the delectable Mr. Darcy to the dastardly Mr. Wickham. Every word is taken directly from the book. Typical word search rules apply: words may be found up, down and diagonally, going backwards or forwards. I truly hope you enjoy!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1511797517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781511797511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7_3HsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7_3HsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=7_3HsgEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=7_3HsgEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_a_Word_Search.html?hl=&id=7_3HsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7_3HsgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look no further! With 81 puzzles in all, this book is filled with delightful word searches for the most devoted of Jane Austen fans."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ElvYswEACAAJ",
+      "etag": "R7v4H+zv5m4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ElvYswEACAAJ",
+      "volumeInfo": {
+        "title": "Level 5: Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Longman",
+        "publishedDate": "2008-03-04",
+        "description": "Classic / British English Jane and Elizabeth Bennet are the oldest of five sisters in need of husbands, but it isn't easy to find the right man. Are Mr Bingley, Mr Darcy and Mr Wickham all that they seem? Will pride and prejudice ever be defeated in the search for true love?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405862467"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405862462"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Courtship"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=ElvYswEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ElvYswEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Level_5_Pride_and_Prejudice.html?hl=&id=ElvYswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ElvYswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Classic / British English Jane and Elizabeth Bennet are the oldest of five sisters in need of husbands, but it isn&#39;t easy to find the right man."
+      }
+    }
+  ]
+}
+],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=cFiNrjPcvucC&pg=PA41&dq=search+intitle:to+kill+a+mocking+bird&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 8.79,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&rdid=book-cFiNrjPcvucC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8790000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird_Lit_Link_Gr_7_8-sample-pdf.acsm?id=cFiNrjPcvucC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cFiNrjPcvucC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eFind\u003c/b\u003e the following names and words in the word \u003cb\u003esearch\u003c/b\u003e: When the new wore off his grandfather&#39;s watch, and carrying. Word \u003cb\u003eSearch\u003c/b\u003e ATTICUS AUNT ALEXANDRA BOB EWELL BOO RADLEY BURRIS CALPURNIA CUNNINGHAM DILL DOLPHUS RAYMOND FINCH HARPER&nbsp;..."
+      }
+    }
+  ]
+}
+dDate": "2021-06-01",
+        "description": "Long regarded as one of the greatest American novels of the twentieth century, The Great Gatsby expresses many of the central themes of the American myth: romance, love, the quest for wealth and status, loneliness, and corruption. The novel follows Jay Gatsby, a mysterious self-made man, in his desperate quest for the love of the beguiling Daisy Buchanan—and for a place in the highest ranks of society. Gatsby’s fate reflects the emptiness and disappointment that come from his search. First published in 1925, Gatsby is regarded as the epitome of the spirit of the Roaring Twenties: the fast life, new wealth, and a glamour and a frivolity that prove to be hollow. Fitzgerald’s genius portrays this world with humor, insight, and the profound sympathy that is the hallmark of all great fiction. F. Scott Fitzgerald (1896–1940) was one of the most admired writers of the twentieth century. His works include This Side of Paradise, The Beautiful and Damned, and Tender Is the Night. The Great Gatsby is by far his best-known and most beloved novel. Richard Smoley, author of the foreword and afterword, is the distinguished author of twelve books, mostly recently The Truth about Magic, also published by G&D. A graduate of Harvard and Oxford universities, he published First Flowering: The Best of the Harvard Advocate, 1866–1976, while still an undergraduate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781722526771"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1722526777"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rj4qEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rj4qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=rj4qEAAAQBAJ&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rj4qEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rj4qEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rj4qEAAAQBAJ&rdid=book-rj4qEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-epub.acsm?id=rj4qEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-pdf.acsm?id=rj4qEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rj4qEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Long regarded as one of the greatest American novels of the twentieth century, The Great Gatsby expresses many of the central themes of the American myth: romance, love, the quest for wealth and status, loneliness, and corruption."
+      }
+    }
+  ]
+}
+VUdEtLDwC&printsec=frontcover&dq=search+intitle:+twilight&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UzqVUdEtLDwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UzqVUdEtLDwC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UzqVUdEtLDwC&rdid=book-UzqVUdEtLDwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Fault_in_Our_Stars-sample-epub.acsm?id=UzqVUdEtLDwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UzqVUdEtLDwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From John Green, #1 bestselling author of The Anthropocene Reviewed and Turtles All the Way Down, The Fault in Our Stars is insightful, bold, irreverent, and raw."
+      }
+    }
+  ]
+}
